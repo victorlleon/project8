@@ -1,0 +1,39 @@
+ table {
+width:650px;
+border-collapse: collapse;
+margin:auto;
+}
+ 
+.datisred {
+color: red;
+}
+
+.datisblue {
+color: blue;
+}
+
+body{
+font-family: Verdana;
+}
+
+
+td {
+border-width: 3px;
+border-style:dotted;
+border-color:blue;
+text-align: center;
+}
+
+th {
+border: 3px solid black;
+background:yellow;
+width: 20%;
+
+}
+
+h1 {
+margin:auto;
+color:Green;
+text-align:center;
+
+
